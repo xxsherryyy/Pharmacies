@@ -11,13 +11,16 @@ GET /api/pharmacies/list
 POST /api/pharmacies/
 PUT /api/pharmacies/{id} 
 
+
 -API Controller
   - CreatePharmacy() - Create new pharmacy
   - GetPharacy() - Get Pharmacies list
   - UpsertPharmacyList() - Update a Pharmacy
 
+
 - Business Logic
   - Pharmacies.Services.Pharmacies
+
  
-- Database Contract
+ - Database Contract
   - Pharmacies.Contracts.Pharmacies
