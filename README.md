@@ -7,6 +7,7 @@
 `dotnet run --project .\Pharmacies\`
 
 -Pharmacies Route 
+
 GET /api/pharmacies/list
 POST /api/pharmacies/
 PUT /api/pharmacies/{id} 
@@ -18,9 +19,9 @@ PUT /api/pharmacies/{id}
   - UpsertPharmacyList() - Update a Pharmacy
 
 
-- Business Logic
+Business Logic
   - Pharmacies.Services.Pharmacies
 
  
- - Database Contract
+Database Contract
   - Pharmacies.Contracts.Pharmacies
