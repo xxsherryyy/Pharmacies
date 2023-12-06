@@ -1,0 +1,11 @@
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\bin\Debug\net7.0\Pharmacies.Contracts.deps.json
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\bin\Debug\net7.0\Pharmacies.Contracts.dll
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\bin\Debug\net7.0\Pharmacies.Contracts.pdb
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.AssemblyInfoInputs.cache
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.AssemblyInfo.cs
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.dll
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\refint\Pharmacies.Contracts.dll
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\Pharmacies.Contracts.pdb
+C:\Users\sherr\Documents\Nuvem\Pharmacies\Pharmacies.Contracts\obj\Debug\net7.0\ref\Pharmacies.Contracts.dll

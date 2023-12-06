@@ -1,0 +1,14 @@
+POST http://localhost:5194/pharmaciesList
+Content-Type: application/json
+
+{
+    "name": "V",
+    "address": "123 test street",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": 75200,
+    "filledPrescriptions": 2,
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00"
+ 
+}
