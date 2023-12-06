@@ -9,7 +9,9 @@
 -Pharmacies Route 
 
 GET /api/pharmacies/list
+
 POST /api/pharmacies/
+
 PUT /api/pharmacies/{id} 
 
 
